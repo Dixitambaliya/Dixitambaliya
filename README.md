@@ -1,6 +1,5 @@
 # 💫 About Me:
-👯Exciting web development projects and innovative solutions in JavaScript, React, and PHP.<br><br>🤝 Exploring advanced features in Laravel and integrating modern frontend frameworks.<br><br>🌱 I’m currently learning:<br>Deepening my expertise in React, Node.js, and backend development using MongoDB and Express.<br><br>💬 Ask me about:<br>Web development with MERN stack, Laravel, and object-oriented programming.<br><br>⚡ Fun fact:<br>I love coding interactive user experiences and enjoy sharing tech tips with others
-
+👯Exciting web development projects and innovative solutions in JavaScript, React, and PHP.<br><br>🤝 Exploring advanced features in Laravel and integrating modern frontend frameworks.<br><br>🌱 I’m currently learning:<br>Deepening my expertise in React, Node.js, and backend development using MongoDB and Express.<br><br>💬 Ask me about:<br>Web development with MERN stack, Laravel, and object-oriented programming.<br><br> 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/dixit-ambaliya-7a46a2266/) 
